@@ -5,7 +5,7 @@
         "label": "Compile",
         "type": "shell",
         "command": "g++",
-        "args": ["-g","-std=c++11","${file}","-o","${workspaceRoot}\\${fileBasenameNoExtension}.exe"],
+        "args": ["-g","-std=c++17","${file}","-o","${workspaceRoot}\\${fileBasenameNoExtension}.exe"],
         "options": {
           "cwd": "C:\\mingw64\\bin"
         },
