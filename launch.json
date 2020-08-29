@@ -8,7 +8,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "program": "${fileDirname}\\${fileBasenameNoExtension}_debug.exe",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
