@@ -74,5 +74,11 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
     }
 }
