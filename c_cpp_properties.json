@@ -8,13 +8,19 @@
             "defines": [
                 "_DEBUG",
                 "UNICODE",
-                "_UNICODE"
+                "_UNICODE",
+                "_LOCAL"
             ],
             "windowsSdkVersion": "10.0.18362.0",
-            "compilerPath": "\"C:\\mingw64\\bin\\gcc.exe\"",
+            "compilerPath": "\"C:\\mingw32\\bin\\gcc.exe\"",
             "cStandard": "c11",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "gcc-x64"
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [
+                "-std=c++20",
+                "-O2",
+                "-Wall"
+            ]
         }
     ],
     "version": 4

@@ -1,2 +1,5 @@
 # VSC-Settings
-mingw: https://sourceforge.net/projects/mingw-w64/files/
+
+mingw: https://winlibs.com/
+
+Scroll down to "**Release versions**"
